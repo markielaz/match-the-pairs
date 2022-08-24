@@ -19,4 +19,4 @@ _Additional_
 - "play again" button on completion
 - "reset" button
 
-You can play the game, hosted on Netlift <a href="https://ubiquitous-muffin-6fa557.netlify.app/">here</a>
+You can play the game, hosted on Netlify <a href="https://ubiquitous-muffin-6fa557.netlify.app/">here</a>
